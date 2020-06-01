@@ -1,0 +1,11 @@
+F:\Computer Application Development\Software development\projects\softwares dependency\softwares dependency\bin\Debug\netcoreapp3.1\softwares dependency.exe
+F:\Computer Application Development\Software development\projects\softwares dependency\softwares dependency\bin\Debug\netcoreapp3.1\softwares dependency.deps.json
+F:\Computer Application Development\Software development\projects\softwares dependency\softwares dependency\bin\Debug\netcoreapp3.1\softwares dependency.runtimeconfig.json
+F:\Computer Application Development\Software development\projects\softwares dependency\softwares dependency\bin\Debug\netcoreapp3.1\softwares dependency.runtimeconfig.dev.json
+F:\Computer Application Development\Software development\projects\softwares dependency\softwares dependency\bin\Debug\netcoreapp3.1\softwares dependency.dll
+F:\Computer Application Development\Software development\projects\softwares dependency\softwares dependency\bin\Debug\netcoreapp3.1\softwares dependency.pdb
+F:\Computer Application Development\Software development\projects\softwares dependency\softwares dependency\obj\Debug\netcoreapp3.1\softwares dependency.AssemblyInfoInputs.cache
+F:\Computer Application Development\Software development\projects\softwares dependency\softwares dependency\obj\Debug\netcoreapp3.1\softwares dependency.AssemblyInfo.cs
+F:\Computer Application Development\Software development\projects\softwares dependency\softwares dependency\obj\Debug\netcoreapp3.1\softwares dependency.dll
+F:\Computer Application Development\Software development\projects\softwares dependency\softwares dependency\obj\Debug\netcoreapp3.1\softwares dependency.pdb
+F:\Computer Application Development\Software development\projects\softwares dependency\softwares dependency\obj\Debug\netcoreapp3.1\softwares dependency.csprojAssemblyReference.cache
